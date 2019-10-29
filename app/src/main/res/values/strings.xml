@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Simple Battery</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="ga_trackingId" translatable="false">${UA-123799048-3}</string>
+</resources>
